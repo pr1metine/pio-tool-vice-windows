@@ -1,0 +1,16 @@
+{
+  "name": "tool-vice",
+  "version": "0.1.0",
+    "description": "Versatile Commodore Emulator",
+    "keywords": [
+        "mos",
+	"commodore",
+	"emulator"
+    ],
+    "homepage": "https://vice-emu.sourceforge.io/index.html#download",
+    "license": "GPL-2.0-only",
+    "system": [
+        "windows_amd64"
+    ]
+}
+
